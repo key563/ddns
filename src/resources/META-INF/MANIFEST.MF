@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: libs/cloudresolution-0.0.1-SNAPSHOT.jar libs/jedis-2.5.1.j
+ ar libs/commons-pool2-2.0.jar
+Main-Class: Main
+
